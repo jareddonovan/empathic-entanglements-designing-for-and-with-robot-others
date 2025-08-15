@@ -22,7 +22,7 @@ title: "Emphatic Entanglements: Designing with and for Robot Others"
 email: j.donovan@qut.edu.au
 description: >- 
   This is a website for a one-day academic workshop at OzCHI 2025.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
