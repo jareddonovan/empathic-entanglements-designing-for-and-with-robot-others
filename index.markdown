@@ -32,4 +32,4 @@ contact, not commands.
 
 ## Submissions
 
-Coming soon
+Coming soon.
