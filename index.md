@@ -11,12 +11,12 @@ movement, and textile augmentation. We frame robotic expression as
 more-than-human intelligence communicated through body, rhythm, and responsive
 materials. Participants will ask: How do we design for robotic acceptance
 without assuming sameness? How can machine behaviours evoke empathy without
-language? Using textile interfaces, such as elastic bands, feathers, and
-stretch fabric, participants will construct new connections between human and
-robot bodies. Outcomes, documented through short performance vignettes, will
-expand HRI design beyond functional or social robotics into speculative,
-somatic, and material empathy – interaction felt through contact, not
-commands.
+spoken/verbal/human language? Using textile interfaces, such as elastic bands,
+feathers, and stretch fabric, participants will construct new connections
+between human and robot bodies. Outcomes, documented through short performance
+vignettes, will expand HRI design beyond functional or social robotics into
+speculative, somatic, and material empathy – interaction felt through contact,
+not commands.
 
 ## Call for participation
 
