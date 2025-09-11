@@ -1,0 +1,6 @@
+# Override default config variables from `_config.yml` when running locally. 
+# Launch jekyll with: `jekyll serve --config _config.yml,_debug.yml`
+title: "Emphatic Entanglements: Designing with and for Robot Others [DEBUG]"
+debug: true
+baseurl: ""
+url: ""
