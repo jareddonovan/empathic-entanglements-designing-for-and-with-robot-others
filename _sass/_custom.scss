@@ -1,0 +1,29 @@
+$sky: #87CEEB;
+$skyLight: lighten($sky, 25%);
+
+$coral: #FF6F61;
+$coralLight: lighten($coral, 25%);
+$coralDark: darken($coral, 30%);
+
+$mint: #98FF98;
+$mintLight: lighten($mint, 15%);
+
+$sun: #FFD700;
+$sunLight: lighten($sun, 25%);
+
+$lavender: #E6E6FA;
+$lavenderLight: lighten($lavender, 25%);
+
+$peach: #FFDAB9;
+$peachLight: lighten($peach, 8%);
+
+.action-box {
+  background: $peachLight;
+  border-radius: 8px;
+  border-color: $peach;
+  border-width: 1px;
+  border-style: solid;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
