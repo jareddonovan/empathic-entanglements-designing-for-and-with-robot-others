@@ -17,15 +17,22 @@ projects, or speculative concepts. Additionally, all participants must submit
 a biography of maximum 150 words to help foster connections among attendees
 and mutual learning throughout the workshop.
 
-We invite participants to submit their contribution by 9th November 2025.
-Submissions can be made by emailing
+<div class="action-box">
+<p>
+We invite participants to submit their contribution by <b>16th November 2025</b>
+</p>
+<p>
+Email your submission to
 <a href="mailto:j.donovan@qut.edu.au?subject=OzCHI 2025 WS10 Submission">j.donovan@qut.edu.au</a>
 with subject:
 <a href="mailto:j.donovan@qut.edu.au?subject=OzCHI 2025 WS10 Submission">OzCHI 2025 WS10 Submission</a>
+</p>
+</div>
 
 At least one author from each accepted submission, must register for the
 conference and attend the workshop. We will publicly publish the selected
-[manifestos on the workshop website]({% link manifestos.md %}).
+manifestos on the workshop website.
+<!-- [manifestos on the workshop website]({% link manifestos.md %}). -->
 
 * **Submission deadline:** 16th November 2025
 * **Format:** 300 word manifesto + 150 word biography
