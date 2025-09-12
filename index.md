@@ -20,8 +20,8 @@ not commands.
 
 ## Call for participation
 
-See the [Call for Participation]({% link call.md %}) page for details on how
-to submit your manifesto.
+See the [Call for Participation]({{ site.baseurl }}{% link call.md %}) page
+for details on how to submit your manifesto.
 
 ## Time and venue
 
