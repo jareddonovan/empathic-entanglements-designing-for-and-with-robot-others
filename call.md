@@ -10,22 +10,20 @@ prototyping and fabrication are welcome. We encourage participants to have
 curiosity and openness to explore material intelligence and embodied
 interaction.
 
-Participants should submit a **300 word manifesto** that describes a robotic
-animal persona: its mood, movement, and material qualities. Submissions are
-encouraged to include annotated sketches and images of previous work, current
-projects, or speculative concepts. Additionally, all participants must submit
-a biography of maximum 150 words to help foster connections among attendees
-and mutual learning throughout the workshop.
+Participants should submit a **300 word manifesto** in PDF format that
+describes a robotic animal persona: its mood, movement, and material
+qualities. Submissions are encouraged to include annotated sketches and images
+of previous work, current projects, or speculative concepts. Additionally, all
+participants must submit a biography of maximum 150 words to help foster
+connections among attendees and mutual learning throughout the workshop.
 
 <div class="action-box">
 <p>
 We invite participants to submit their contribution by <b>16th November 2025</b>
 </p>
 <p>
-Email your submission to
-<a href="mailto:j.donovan@qut.edu.au?subject=OzCHI 2025 WS10 Submission">j.donovan@qut.edu.au</a>
-with subject:
-<a href="mailto:j.donovan@qut.edu.au?subject=OzCHI 2025 WS10 Submission">OzCHI 2025 WS10 Submission</a>
+Upload your submission here:
+<a href="https://forms.gle/RoScC8QpRX1DVcVX9">Google forms</a>
 </p>
 </div>
 
@@ -36,8 +34,7 @@ manifestos on the workshop website.
 
 * **Submission deadline:** 16th November 2025
 * **Format:** 300 word manifesto + 150 word biography
-* **Email submission to:** <a href="mailto:j.donovan@qut.edu.au?subject=OzCHI 2025 WS10 Submission">j.donovan@qut.edu.au</a> with subject:
-  <a href="mailto:j.donovan@qut.edu.au?subject=OzCHI 2025 WS10 Submission">OzCHI 2025 WS10 Submission</a>
+* **Submission upload:** [Google forms](https://forms.gle/RoScC8QpRX1DVcVX9)
 * **Notification of acceptance:** before 23rd November 2025
 
 ## Contact
