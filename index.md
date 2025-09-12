@@ -25,7 +25,7 @@ to submit your manifesto.
 
 ## Time and venue
 
-* Date: Sunday (30 November), FULL DAY..
+* Date: Sunday (30 November), FULL DAY.
 
 ## Contact
 
