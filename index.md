@@ -2,7 +2,15 @@
 layout: page2
 title: "Empathic Entanglements"
 permalink: /
+carousels:
+  - images: 
+    - image: /assets/images/w1.jpg
+    - image: /assets/images/w2.jpg
+    - image: /assets/images/w3.jpg
+    - image: /assets/images/r1.jpg
 ---
+
+{% include carousel.html height="740" unit="px" duration="7" number="1" %}
 
 Empathic Enganglements: Designing for and with Robot Others is a full-day
 workshop at [OzCHI 2025](https://www.ozchi.org/2025/) that explores how robots

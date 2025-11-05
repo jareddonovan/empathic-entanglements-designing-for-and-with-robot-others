@@ -4,6 +4,8 @@ title: Call for Participation
 permalink: /call/
 ---
 
+<iframe width="740" height="417" src="https://www.youtube.com/embed/a7Fm4qMsjgg?si=V2B6fdOBxf8Lj37o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Participants do not need to have a technical background in robotics. Interest
 in Human-Robot Interaction and collaboration, design, performance, movement,
 prototyping and fabrication are welcome. We encourage participants to have
