@@ -4,10 +4,10 @@ title: "Empathic Entanglements"
 permalink: /
 carousels:
   - images: 
-    - image: /assets/images/w1.jpg
-    - image: /assets/images/w2.jpg
-    - image: /assets/images/w3.jpg
-    - image: /assets/images/r1.jpg
+    - image: /assets/images/robanimal2a.jpg
+    - image: /assets/images/robanimal2b.jpg
+    - image: /assets/images/robanimal2c.jpg
+    - image: /assets/images/robanimal1.jpg
 ---
 
 {% include carousel.html height="740" unit="px" duration="7" number="1" %}
