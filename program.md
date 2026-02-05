@@ -4,6 +4,10 @@ title: Program
 permalink: /program/
 ---
 
+<!-- 
+<iframe width="740" height="417" src="https://www.youtube.com/embed/anpBaqNde580?si=V2B6fdOBxf8Lj37o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ -->
+
 | Time          | Activity                                                     | Description                                                                                                  |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | 9:00          | Welcome & Acknowledgement of Country                         | Intro to workshop aims and manifesto roundtable (participants present their animal-inspired robot character) |
